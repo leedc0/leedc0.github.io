@@ -1,11 +1,11 @@
 # Site settings
 author: Daniel Lee
-title: 
+title: reBoost
 header-img: img/home-bg.png
 email: leedc@me.com
 copyright_name: Daniel Lee
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Follow my journey to boost my career to the next level
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  leedc0
